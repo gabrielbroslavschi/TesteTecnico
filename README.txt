@@ -1,3 +1,8 @@
+Seugue algumas orientações de como realizar as funções da API:
+Recomendo realizar todas as ações pela ferramenta Postman, para que seja mais facil a compreenção.
+
+
+
 Para consultar todas as pessoas:
 http://localhost:8080/Pessoa/
 
@@ -45,7 +50,9 @@ http://localhost:8080/Pessoa/1
 
 
 
-+==============+_+==============+_+==============+_+==============+ 
++==============+_+==============+_+==============+_+==============+_+==============+
+
+
 
 Para consultar todos os endereços:
 http://localhost:8080/Endereco/
